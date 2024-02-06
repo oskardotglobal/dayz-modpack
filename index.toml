@@ -5,8 +5,18 @@ file = "config/forge.cfg"
 hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
 
 [[files]]
+file = "mods/antique-atlas.pw.toml"
+hash = "6303fa1a2c9ba98acd32a225211819339dfb0263332ff15f13268b77a6a9cabb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "14ef6f743ca772d4a4f555392cb8013b9420b3a16e3818c8280ef115c5aa6568"
+metafile = true
+
+[[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "e44ae478157ce39c2938b61ec2cdde50fbc1feb6f55a9ee96a9d89cd3a8a2863"
 metafile = true
 
 [[files]]
@@ -35,6 +45,11 @@ hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
 metafile = true
 
 [[files]]
+file = "mods/corpse-complex.pw.toml"
+hash = "cdc115a749d5f9e75cee079e94b0c08123a84fbb89e3555f21aa0f6f270848c6"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "cbf137d537d809e265a9dbf93caf5caddd41f4480b951227f31ed16eabed9bfe"
 metafile = true
@@ -50,28 +65,18 @@ hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+file = "mods/f3-unlockable.pw.toml"
+hash = "3566308d223d55083c8662b485f6895e24d884ac3507310fdeab04c7f255f536"
 metafile = true
 
 [[files]]
-file = "mods/immersive-vehicles-automobilwerke-schwikau-veb.pw.toml"
-hash = "d6bc1bfd37b59c7dfce628ee69037ae15e0f33a86a265005a04e6326af55ec4e"
-metafile = true
-
-[[files]]
-file = "mods/immersive-vehicles-iav-parts-pack.pw.toml"
-hash = "2898532ed0147d83ee9d1b53c877da011f15d63bad825a6735531d3addd7bc64"
+file = "mods/hardcore-darkness.pw.toml"
+hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "03e73fd05e7582c9db626ad68904e6e5445b40d6be4f618a918cfb83ace9bb96"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "9a4e81d9936e30393968afd7adb1b5337fbc3211f22f2c4e70c77db50678d3ae"
 metafile = true
 
 [[files]]
@@ -87,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transport-simulator.pw.toml"
 hash = "b4855ef3d706b9149b13fa1d97fa8748d4181edddb662728b9922756a653bde0"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "5c00ea1552543b1506869d7e70c7e10d9e913ef97e93427ca2cbe4c8f035fb24"
 metafile = true
 
 [[files]]
@@ -125,6 +135,11 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remixin.pw.toml"
+hash = "602661cc4a69bc167367d67d451073b536fa1307be2be02a77fde0d8dab9405f"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
 metafile = true
@@ -137,6 +152,16 @@ metafile = true
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "9849eb87522fc1b157029557e8cb13d467917185e21304acd34aadb5a76e215a"
+metafile = true
+
+[[files]]
+file = "mods/zombies-are-real.pw.toml"
+hash = "f6a6eeede6688ed8a62f2b6f8adcddff55ccf36031e76be99f340e5a6ce038f6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "afa5d71911ec7ec83b95383fe9599c0ccd96669ee53d5804a338110c3a164085"
 metafile = true
 
 [[files]]

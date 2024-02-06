@@ -1,0 +1,13 @@
+name = "F3 Unlockable"
+filename = "F3Unlockable-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed9fe38befd4e5752783147d7a65e6d9e4e333f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2621999
+project-id = 303801
