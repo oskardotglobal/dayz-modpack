@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/corpsecomplex.cfg"
+hash = "ed3d0378bc56c41e25fe4b056905b7e4595fe36fc4e0bf6c29bc2fa5668372f1"
+
+[[files]]
 file = "config/forge.cfg"
 hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
 
@@ -51,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "cbf137d537d809e265a9dbf93caf5caddd41f4480b951227f31ed16eabed9bfe"
+hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
 metafile = true
 
 [[files]]
@@ -87,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "b331cd5abf26c16e9a3f2504534e2bb6f8527506fc5b8e9cfad96c7c779c74c6"
+metafile = true
+
+[[files]]
+file = "mods/loottweaker.pw.toml"
+hash = "46759c35547a9b4a6c138c796f3f66332846d05d5fde8802961f94147cd980c3"
 metafile = true
 
 [[files]]
