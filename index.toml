@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ex-nihilo-creatio.pw.toml"
+hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "b331cd5abf26c16e9a3f2504534e2bb6f8527506fc5b8e9cfad96c7c779c74c6"
+metafile = true
+
+[[files]]
+file = "mods/mixinbooter.pw.toml"
+hash = "622537a24372ed1329b300b9cab2aeb3052ef5b9526fc786dbc55fa248062a93"
+metafile = true
+
+[[files]]
+file = "mods/modern-warfare-cubed.pw.toml"
+hash = "d82d28140874d31f221ecc305e6cae99a6b8aa331d238eeff26807b1dc81451d"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "2b3b1d1944ec4342139349a106e33ba87caf76e291599e80d7545558344fdb10"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true

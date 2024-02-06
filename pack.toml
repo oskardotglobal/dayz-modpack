@@ -1,0 +1,14 @@
+name = "Dayz Modpack"
+author = "oskardotglobal, Morio187"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "01d3fffe137f35d3f7b48f05da2d366f604961bc9e777e5682fa6d3d43c1f4e5"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
+unsup = "0.2.0"
