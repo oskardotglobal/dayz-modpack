@@ -1,13 +1,92 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/forge.cfg"
+hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "14ef6f743ca772d4a4f555392cb8013b9420b3a16e3818c8280ef115c5aa6568"
+metafile = true
+
+[[files]]
+file = "mods/cmatransportpack.pw.toml"
+hash = "7844a6696d29c0b95cb81e2696a4b1c2e5c90563960fcecc9c97e05216b3d36e"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "cbf137d537d809e265a9dbf93caf5caddd41f4480b951227f31ed16eabed9bfe"
+metafile = true
+
+[[files]]
+file = "mods/ex-compressum.pw.toml"
+hash = "55273e57d0d262d61fc6de7a1bd30896e0ad78c1415a86fbf7d7ef2bd75d5713"
+metafile = true
+
+[[files]]
 file = "mods/ex-nihilo-creatio.pw.toml"
 hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-automobilwerke-schwikau-veb.pw.toml"
+hash = "d6bc1bfd37b59c7dfce628ee69037ae15e0f33a86a265005a04e6326af55ec4e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-iav-parts-pack.pw.toml"
+hash = "2898532ed0147d83ee9d1b53c877da011f15d63bad825a6735531d3addd7bc64"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "03e73fd05e7582c9db626ad68904e6e5445b40d6be4f618a918cfb83ace9bb96"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9a4e81d9936e30393968afd7adb1b5337fbc3211f22f2c4e70c77db50678d3ae"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "3f090658eb8521a5abe44bf5413e8da67ae7011c3778570028e4fd38985cf35f"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "b331cd5abf26c16e9a3f2504534e2bb6f8527506fc5b8e9cfad96c7c779c74c6"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "b4855ef3d706b9149b13fa1d97fa8748d4181edddb662728b9922756a653bde0"
 metafile = true
 
 [[files]]
@@ -31,6 +110,35 @@ hash = "2b3b1d1944ec4342139349a106e33ba87caf76e291599e80d7545558344fdb10"
 metafile = true
 
 [[files]]
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "851bfa714ef3076b5e6047285e8b7ffbd0d83195930b23d2e33ffe2b6781165c"
+metafile = true
+
+[[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "9849eb87522fc1b157029557e8cb13d467917185e21304acd34aadb5a76e215a"
+metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "f169fd656e983d927accab85d832a733c6f82de1fa1cd3bcfda1a1dc817369f6"
