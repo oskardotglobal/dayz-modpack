@@ -1,0 +1,7 @@
+name = "optifine"
+filename = "OptiFine_1.12.2_HD_U_G5.jar"
+
+[download]
+url = "https://github.com/oskardotglobal/dayz-modpack/raw/main/include/OptiFine_1.12.2_HD_U_G5.jar"
+hash-format = "sha256"
+hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
