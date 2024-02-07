@@ -14,7 +14,7 @@ hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "168fc8704c4b7fc92edebd63089f02a740c0cc7e7f74a4055a0e90966f57d473"
+hash = "21e2b0046ed3a205173b3a020765789f04d5f5feadaaa7c9670e609aa41e9c69"
 
 [[files]]
 file = "mods/antique-atlas.pw.toml"
@@ -219,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "9849eb87522fc1b157029557e8cb13d467917185e21304acd34aadb5a76e215a"
+metafile = true
+
+[[files]]
+file = "mods/zombies-are-real.pw.toml"
+hash = "c9f347b5253cd03ee2e9df5584466908ad2ad520d33ac651f175f452a325ec92"
 metafile = true
 
 [[files]]
