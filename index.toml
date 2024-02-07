@@ -5,8 +5,16 @@ file = "config/corpsecomplex.cfg"
 hash = "ed3d0378bc56c41e25fe4b056905b7e4595fe36fc4e0bf6c29bc2fa5668372f1"
 
 [[files]]
+file = "config/flashlight_v1.0.cfg"
+hash = "badca0abae3c388673aaaeb3868e4aca0bbf05c1964b262632f10371983ac83d"
+
+[[files]]
 file = "config/forge.cfg"
 hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "168fc8704c4b7fc92edebd63089f02a740c0cc7e7f74a4055a0e90966f57d473"
 
 [[files]]
 file = "mods/antique-atlas.pw.toml"
@@ -19,13 +27,18 @@ hash = "14ef6f743ca772d4a4f555392cb8013b9420b3a16e3818c8280ef115c5aa6568"
 metafile = true
 
 [[files]]
+file = "mods/atomicstrykers-infernal-mobs.pw.toml"
+hash = "cb2f5379f81edc87c07ab98959f48316f88acfdce8b2129fe71e6e4b25cc7dfd"
+metafile = true
+
+[[files]]
 file = "mods/bad-mobs.pw.toml"
 hash = "e44ae478157ce39c2938b61ec2cdde50fbc1feb6f55a9ee96a9d89cd3a8a2863"
 metafile = true
 
 [[files]]
-file = "mods/cmatransportpack.pw.toml"
-hash = "7844a6696d29c0b95cb81e2696a4b1c2e5c90563960fcecc9c97e05216b3d36e"
+file = "mods/betteranimalsplus.pw.toml"
+hash = "026179f9c25ebe3045909c7754edf4465049617e9e8e7c0bca5f2cdb2c6db02e"
 metafile = true
 
 [[files]]
@@ -41,6 +54,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-world.pw.toml"
 hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
 metafile = true
 
 [[files]]
@@ -74,18 +92,33 @@ hash = "3566308d223d55083c8662b485f6895e24d884ac3507310fdeab04c7f255f536"
 metafile = true
 
 [[files]]
+file = "mods/first-aid.pw.toml"
+hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-darkness.pw.toml"
 hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "03e73fd05e7582c9db626ad68904e6e5445b40d6be4f618a918cfb83ace9bb96"
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "3f090658eb8521a5abe44bf5413e8da67ae7011c3778570028e4fd38985cf35f"
+file = "mods/immersive-vehicles-automobilwerke-schwikau-veb.pw.toml"
+hash = "d6bc1bfd37b59c7dfce628ee69037ae15e0f33a86a265005a04e6326af55ec4e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-iav-parts-pack.pw.toml"
+hash = "2898532ed0147d83ee9d1b53c877da011f15d63bad825a6735531d3addd7bc64"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "03e73fd05e7582c9db626ad68904e6e5445b40d6be4f618a918cfb83ace9bb96"
 metafile = true
 
 [[files]]
@@ -119,8 +152,18 @@ hash = "d82d28140874d31f221ecc305e6cae99a6b8aa331d238eeff26807b1dc81451d"
 metafile = true
 
 [[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "06967deeec89df4483327d9cded794df0f8a7ce329f3146f29e1abc51cecb8dd"
+metafile = true
+
+[[files]]
 file = "mods/optifine.pw.toml"
 hash = "81db611b90f37122b9c2d99f4a504ebe12ab977d746b7876279a479276ad5e03"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft.pw.toml"
+hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
@@ -134,6 +177,11 @@ hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "851bfa714ef3076b5e6047285e8b7ffbd0d83195930b23d2e33ffe2b6781165c"
 metafile = true
@@ -144,8 +192,18 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
+file = "mods/simple-flashlight-port.pw.toml"
+hash = "f74b51c5e057ac402d2d23c9dc6c30e577d4ca4238c0761c4e06bb08126d4bb0"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remixin.pw.toml"
 hash = "602661cc4a69bc167367d67d451073b536fa1307be2be02a77fde0d8dab9405f"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "8706fffb7b175ef25ed810ff3b462714ff9ca978a7db9ff203d2ebce115bfae5"
 metafile = true
 
 [[files]]
@@ -171,6 +229,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "afa5d71911ec7ec83b95383fe9599c0ccd96669ee53d5804a338110c3a164085"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
+hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
 
 [[files]]
