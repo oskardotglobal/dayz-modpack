@@ -222,11 +222,6 @@ hash = "9849eb87522fc1b157029557e8cb13d467917185e21304acd34aadb5a76e215a"
 metafile = true
 
 [[files]]
-file = "mods/zombies-are-real.pw.toml"
-hash = "f6a6eeede6688ed8a62f2b6f8adcddff55ccf36031e76be99f340e5a6ce038f6"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "afa5d71911ec7ec83b95383fe9599c0ccd96669ee53d5804a338110c3a164085"
 metafile = true
