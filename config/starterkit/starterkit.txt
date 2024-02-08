@@ -4,7 +4,7 @@
 'legs' : '',
 'feet' : '',
 0 : '{id:"mwc:baseball_bat",Count:1b,tag:{Unbreakable:1},Damage:0s}',
-1 : '{id:"flashlight:flashlight",Count:1b,tag:{active:0b,batteryLifeTime:143870},Damage:0s}',
+1 : '',
 2 : '',
 3 : '',
 4 : '',

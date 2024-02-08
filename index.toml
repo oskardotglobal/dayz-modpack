@@ -18,7 +18,7 @@ hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "21e2b0046ed3a205173b3a020765789f04d5f5feadaaa7c9670e609aa41e9c69"
+hash = "2f6c60a14a7d0c5a174d114cd03c83ecd82cd061b0e54006067e80e9264c5baf"
 
 [[files]]
 file = "config/tombmanygraves.cfg"
@@ -212,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
-metafile = true
-
-[[files]]
-file = "mods/simple-flashlight-port.pw.toml"
-hash = "f74b51c5e057ac402d2d23c9dc6c30e577d4ca4238c0761c4e06bb08126d4bb0"
 metafile = true
 
 [[files]]
