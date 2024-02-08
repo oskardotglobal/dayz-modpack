@@ -1,7 +1,7 @@
 name = "zombies-are-real"
-filename = "ZombiesAreReal-2.0.0.jar"
+filename = "ZombiesAreReal-2.0.1.jar"
 
 [download]
-url = "https://github.com/oskardotglobal/dayz-modpack/raw/main/include/ZombiesAreReal-2.0.0.jar"
+url = "https://github.com/oskardotglobal/dayz-modpack/raw/main/include/ZombiesAreReal-2.0.1.jar"
 hash-format = "sha256"
-hash = "ebd1f631920edfa4404d07fedc313b4368d08dee1cb8379a970826f944475544"
+hash = "59972cb36329b99ec6b2ba6b3b4c3360f7ec82849eedac174d669b0d6618abbf"
