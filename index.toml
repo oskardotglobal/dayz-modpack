@@ -21,6 +21,10 @@ file = "config/forge.cfg"
 hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
 
 [[files]]
+file = "config/securitycraft.cfg"
+hash = "aa23842665ed965e07ab4b18b31389acc78445cd407a010edc7d691ed6836bca"
+
+[[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "e2553b7023ff61a1dcacdbdf266abee07f5ac3b419e99a5674e583ab6516b3b1"
 
@@ -181,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/modern-warfare-cubed.pw.toml"
 hash = "d82d28140874d31f221ecc305e6cae99a6b8aa331d238eeff26807b1dc81451d"
+metafile = true
+
+[[files]]
+file = "mods/modularmovements.pw.toml"
+hash = "02ac837293649b073fcf1d9e4cea6a78f07a60497209fcaf20624d71e3f34a81"
 metafile = true
 
 [[files]]
