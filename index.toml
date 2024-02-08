@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombies-are-real.pw.toml"
-hash = "d9ff8964c1b9bd08c9715ac16cfb8b1b6fab4ec98e3805eb7093329816574264"
+hash = "91672a6a6d95119a72af85a69a9695b3a240ae702c40b9c79183d294e6cb0a56"
 metafile = true
 
 [[files]]
