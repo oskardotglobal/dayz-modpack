@@ -1,7 +1,0 @@
-name = "modularmovements"
-filename = "modularmovements-1.1.1f.jar"
-
-[download]
-url = "https://github.com/oskardotglobal/dayz-modpack/raw/main/include/modularmovements-1.1.1f.jar"
-hash-format = "sha256"
-hash = "2b8b3e5b714ec5323b570e2d9dcdad26a28027d3b4c62640011f43f8783686d1"
