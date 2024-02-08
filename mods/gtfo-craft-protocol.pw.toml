@@ -1,0 +1,13 @@
+name = "GTFO Craft: Protocol"
+filename = "GTFO-Craft-Protocol-1.12.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e42f7cdab0f47276e85be47e164667940ed2cc14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5059446
+project-id = 963546

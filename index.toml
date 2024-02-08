@@ -9,6 +9,10 @@ file = "config/corpsecomplex.cfg"
 hash = "ed3d0378bc56c41e25fe4b056905b7e4595fe36fc4e0bf6c29bc2fa5668372f1"
 
 [[files]]
+file = "config/datrandomspawn.cfg"
+hash = "19e5e2783298156a0b0378ed02409b323cee5ff75e4ce61aac8a94bcacbe3cd9"
+
+[[files]]
 file = "config/flashlight_v1.0.cfg"
 hash = "badca0abae3c388673aaaeb3868e4aca0bbf05c1964b262632f10371983ac83d"
 
@@ -47,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "026179f9c25ebe3045909c7754edf4465049617e9e8e7c0bca5f2cdb2c6db02e"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "5b396f4090a7a1f5fdbeca3e7630900b7ef31ea465206a559ffa796eac94f243"
 metafile = true
 
 [[files]]
@@ -110,6 +119,16 @@ hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4e87ea91ac584b6c91dbac23bd05db9be1a848e47dda3524224bb189f4fe5b10"
+metafile = true
+
+[[files]]
+file = "mods/gtfo-craft-protocol.pw.toml"
+hash = "496e649eaaf8df41887f58f98ae704b0bd04f2fd07abba23792fb9a6da640864"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-darkness.pw.toml"
 hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
 metafile = true
@@ -145,11 +164,6 @@ hash = "46759c35547a9b4a6c138c796f3f66332846d05d5fde8802961f94147cd980c3"
 metafile = true
 
 [[files]]
-file = "mods/mcdoom.pw.toml"
-hash = "2484e9e72c17ca590f502a04bd0b7995252f83f524bcb895b304f884bd719221"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-transport-simulator.pw.toml"
 hash = "b4855ef3d706b9149b13fa1d97fa8748d4181edddb662728b9922756a653bde0"
 metafile = true
@@ -167,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/modern-warfare-cubed.pw.toml"
 hash = "d82d28140874d31f221ecc305e6cae99a6b8aa331d238eeff26807b1dc81451d"
+metafile = true
+
+[[files]]
+file = "mods/nixnarrator.pw.toml"
+hash = "30a88ab8110216e8533bdbd946d107e5df3c60ec808adbff598932ddf41b8837"
 metafile = true
 
 [[files]]
@@ -245,11 +264,6 @@ hash = "9849eb87522fc1b157029557e8cb13d467917185e21304acd34aadb5a76e215a"
 metafile = true
 
 [[files]]
-file = "mods/zombies-are-real.pw.toml"
-hash = "c9f347b5253cd03ee2e9df5584466908ad2ad520d33ac651f175f452a325ec92"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "afa5d71911ec7ec83b95383fe9599c0ccd96669ee53d5804a338110c3a164085"
 metafile = true
@@ -261,4 +275,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "f169fd656e983d927accab85d832a733c6f82de1fa1cd3bcfda1a1dc817369f6"
+hash = "0ca33bb6bab75298ab1e9c0bdc74a4fbca7ec6e82dc488f2cf45f224b17d5d64"

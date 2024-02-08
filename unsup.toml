@@ -1,5 +1,11 @@
 [flavor_groups.client_only]
 name = "Client-side exclusive mods"
-description = "QOL client side mods. Selecting this is very much recommended.\nChoice is an illusion."
+description = "QOL client side mods. Selecting this is recommended."
 side = "client"
 choices = ["client_only_off", "client_only_on"]
+
+[metafile.borderless-mining]
+flavors = ["client_only_on"]
+
+[metafile.nixnarrator]
+flavors = ["client_only_on"]

@@ -1,0 +1,7 @@
+name = "nixnarrator"
+filename = "nixnarrator-1.0.0.jar"
+
+[download]
+url = "https://github.com/nok-ko/NixNarrator/releases/download/1.0.0/nixnarrator-1.0.0.jar"
+hash-format = "sha256"
+hash = "eb5fd7c79599bac2119450481ed7885b36c5c5d0517d3504ed44c4c5dd29365c"
