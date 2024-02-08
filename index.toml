@@ -264,6 +264,11 @@ hash = "9849eb87522fc1b157029557e8cb13d467917185e21304acd34aadb5a76e215a"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
+metafile = true
+
+[[files]]
 file = "mods/zombies-are-real.pw.toml"
 hash = "d9ff8964c1b9bd08c9715ac16cfb8b1b6fab4ec98e3805eb7093329816574264"
 metafile = true
