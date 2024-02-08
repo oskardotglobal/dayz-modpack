@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/badmobs.cfg"
-hash = "3a0488fff6b732576ef64cc4b22f2a068f2457f3da8b7bea02687d7f16d23db3"
+hash = "67063ada3c0226a9d840daacc6d14d775ef77b2f65edc3993a32a36d60c91ea1"
 
 [[files]]
 file = "config/corpsecomplex.cfg"
