@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/badmobs.cfg"
+hash = "3a0488fff6b732576ef64cc4b22f2a068f2457f3da8b7bea02687d7f16d23db3"
+
+[[files]]
 file = "config/corpsecomplex.cfg"
 hash = "ed3d0378bc56c41e25fe4b056905b7e4595fe36fc4e0bf6c29bc2fa5668372f1"
 
@@ -15,6 +19,10 @@ hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
 [[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "21e2b0046ed3a205173b3a020765789f04d5f5feadaaa7c9670e609aa41e9c69"
+
+[[files]]
+file = "config/tombmanygraves.cfg"
+hash = "9f82f5d03a4a20300d2f28e703cc2f0e53605b26927f289b423e69960f3bb847"
 
 [[files]]
 file = "mods/antique-atlas.pw.toml"
@@ -77,6 +85,11 @@ hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
 metafile = true
 
 [[files]]
+file = "mods/dat-modding-api.pw.toml"
+hash = "80e3e5f9c163468a17167e4d2b5530588735f3d06236256dd5f1476ba8153cf2"
+metafile = true
+
+[[files]]
 file = "mods/ex-compressum.pw.toml"
 hash = "55273e57d0d262d61fc6de7a1bd30896e0ad78c1415a86fbf7d7ef2bd75d5713"
 metafile = true
@@ -132,6 +145,11 @@ hash = "46759c35547a9b4a6c138c796f3f66332846d05d5fde8802961f94147cd980c3"
 metafile = true
 
 [[files]]
+file = "mods/mcdoom.pw.toml"
+hash = "2484e9e72c17ca590f502a04bd0b7995252f83f524bcb895b304f884bd719221"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transport-simulator.pw.toml"
 hash = "b4855ef3d706b9149b13fa1d97fa8748d4181edddb662728b9922756a653bde0"
 metafile = true
@@ -164,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft.pw.toml"
 hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
+metafile = true
+
+[[files]]
+file = "mods/random-spawn.pw.toml"
+hash = "68cd03813e8c380f663872bcc2d15a0897c76dc9f59f2a5eb5c97a7e59589fb5"
 metafile = true
 
 [[files]]
@@ -214,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/tomb-many-graves-2.pw.toml"
+hash = "4aadc797a9cef1e2d93d7c7ffa1d015379f93bd3e68f8aa66991cc45a089d207"
 metafile = true
 
 [[files]]

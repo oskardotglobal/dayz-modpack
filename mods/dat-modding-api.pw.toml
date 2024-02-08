@@ -1,0 +1,13 @@
+name = "Dat Modding API"
+filename = "datmoddingapi-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a7d3e877a08bb5c3ed12f135341d966d71ad5da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3644485
+project-id = 362250
