@@ -1,0 +1,14 @@
+[
+    {
+    	"mob": "mwc:terrorist",
+    	"mincount": 5,
+    	"perplayer": true,
+    	"result": "deny"
+    },
+    {
+    	"passive": true,
+    	"mincount": 10,
+    	"perplayer": true,
+    	"result": "deny"
+    }
+]
