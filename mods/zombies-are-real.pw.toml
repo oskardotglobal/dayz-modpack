@@ -1,7 +1,0 @@
-name = "zombies-are-real"
-filename = "ZombiesAreReal-2.2.0.jar"
-
-[download]
-url = "https://github.com/oskardotglobal/ZombiesAreReal/releases/download/v2.2.0/ZombiesAreReal-2.2.0.jar"
-hash-format = "sha256"
-hash = "80b9120e9ac5b3c6a293ed713b5b5fa445aab76b2ed343f00fbacdad6fd78d3b"

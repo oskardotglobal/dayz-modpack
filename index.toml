@@ -2,19 +2,31 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/badmobs.cfg"
-hash = "4f4c0a802dc3fd7c58370bd0a205223fa154e4878a7613a10885813c0656df27"
+hash = "e3203c79a0b9cbbf5cf9caad965c5e23dd4b29151a11095c17f696be841e6ea4"
 
 [[files]]
 file = "config/corpsecomplex.cfg"
 hash = "ed3d0378bc56c41e25fe4b056905b7e4595fe36fc4e0bf6c29bc2fa5668372f1"
 
 [[files]]
+file = "config/darkness.cfg"
+hash = "642254f869971ccb807e0ac2013e801dc73bdf409fbb10f2fe3002cc2afe204f"
+
+[[files]]
 file = "config/datrandomspawn.cfg"
 hash = "19e5e2783298156a0b0378ed02409b323cee5ff75e4ce61aac8a94bcacbe3cd9"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "141d67bf8b4ad7cec5892d9295a1ec4ed96f70e68679008d5d0eb2ad8d2777c7"
+
+[[files]]
 file = "config/forge.cfg"
 hash = "0becf7d2a230a80411b47d6e7c2000bf7c80c9fa936e493d4fe3644344586bd4"
+
+[[files]]
+file = "config/improvedmobs/main.cfg"
+hash = "885631accf78eecfc9939273a7a7f3e7713a6aa00ae22e609de85bf264511155"
 
 [[files]]
 file = "config/incontrol/spawn.json"
@@ -23,6 +35,26 @@ hash = "6534ac372605074ff17cda0e18592ea9f0694b0a50633a965018a1c2cc6aa9b1"
 [[files]]
 file = "config/mwc.cfg"
 hash = "da6a712c9152d8e27d7bc889d99207d0b4e9a264ede535c78486088847ee24eb"
+
+[[files]]
+file = "config/portalgun.cfg"
+hash = "27f4abec84c1fb1b613807043682f3bf0b62ecee97a5049053395a4168c7e7fb"
+
+[[files]]
+file = "config/progressivedifficulty/default/default.cfg"
+hash = "0689d45e21e72db3a879ed347369c450e868a74c0d8b8a92c2924cbb08639349"
+
+[[files]]
+file = "config/progressivedifficulty/default/region.cfg"
+hash = "600324e15c355fa8da7ed1b84edf2e3961f717266f8014e15853cf6f7a122ed4"
+
+[[files]]
+file = "config/progressivedifficulty/progressivedifficulty.cfg"
+hash = "5c58c1ce1ccd0f39e3b8a9a106b3997e4b85258567e00380ef1905df5cf1087d"
+
+[[files]]
+file = "config/roughmobsrevamped.cfg"
+hash = "4586d1b07f83a6910d228b9161fe3226b9d886fb004ecdc38e8e7ae4f5cbdb12"
 
 [[files]]
 file = "config/securitycraft.cfg"
@@ -67,6 +99,16 @@ hash = "5b396f4090a7a1f5fdbeca3e7630900b7ef31ea465206a559ffa796eac94f243"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
+metafile = true
+
+[[files]]
+file = "mods/cobble-gen-haters.pw.toml"
+hash = "73fff6353c6559e203334f7b9456223634c2ad905924f3261270857afc383188"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
@@ -107,6 +149,16 @@ hash = "80e3e5f9c163468a17167e4d2b5530588735f3d06236256dd5f1476ba8153cf2"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-darkness.pw.toml"
+hash = "d8b8ce06a68e37306a98e4856641bbde63e11316b56819dcb2601ebf176261e1"
+metafile = true
+
+[[files]]
 file = "mods/ex-compressum.pw.toml"
 hash = "55273e57d0d262d61fc6de7a1bd30896e0ad78c1415a86fbf7d7ef2bd75d5713"
 metafile = true
@@ -122,8 +174,18 @@ hash = "3566308d223d55083c8662b485f6895e24d884ac3507310fdeab04c7f255f536"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
+metafile = true
+
+[[files]]
 file = "mods/first-aid.pw.toml"
 hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
 
 [[files]]
@@ -137,8 +199,8 @@ hash = "496e649eaaf8df41887f58f98ae704b0bd04f2fd07abba23792fb9a6da640864"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-darkness.pw.toml"
-hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
+file = "mods/ichunutil.pw.toml"
+hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
 
 [[files]]
@@ -157,6 +219,11 @@ hash = "2898532ed0147d83ee9d1b53c877da011f15d63bad825a6735531d3addd7bc64"
 metafile = true
 
 [[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "4f5dd055d9437637e23231224075be92b441e066201c076a1e04c005426fee6e"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "92527273fa468970a2f1ab95c1df58a13881b8345f6537ea65c60d8ff812592f"
 metafile = true
@@ -164,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "ee4ab6043487a0c6122801cdb0ec4fd9b4182ef6a0238ecc91a44420ba81dccf"
+metafile = true
+
+[[files]]
+file = "mods/localized-chat.pw.toml"
+hash = "c58c07a4b67fd6f0a2a9647216e9931dea8a2acc0b1cf0f2c2ef38c38f17cf0d"
 metafile = true
 
 [[files]]
@@ -179,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transport-simulator.pw.toml"
 hash = "b4855ef3d706b9149b13fa1d97fa8748d4181edddb662728b9922756a653bde0"
+metafile = true
+
+[[files]]
+file = "mods/mixin-0-7-0-8-compatibility.pw.toml"
+hash = "f39c64e5bbdc2ec6a12936cbdd4a2821d891d591402de376acb21fcde158a548"
 metafile = true
 
 [[files]]
@@ -217,6 +294,16 @@ hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "0b2d90a415533b51a4ca6807ba537993dcca774a83185c6f7f998c4d5d859459"
+metafile = true
+
+[[files]]
+file = "mods/proper-finite-water.pw.toml"
+hash = "bd6a3071b0501bab208e8a5398afcca71c8caf6f34ec58dd50d7d60f5cb03cde"
+metafile = true
+
+[[files]]
 file = "mods/random-spawn.pw.toml"
 hash = "68cd03813e8c380f663872bcc2d15a0897c76dc9f59f2a5eb5c97a7e59589fb5"
 metafile = true
@@ -237,6 +324,16 @@ hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
 metafile = true
 
 [[files]]
+file = "mods/regeneration.pw.toml"
+hash = "462bb9853fd4d4727e94bc4165c9bfdc0575e20f34456e58093f4d89fb5a3446"
+metafile = true
+
+[[files]]
+file = "mods/rough-mobs-revamped.pw.toml"
+hash = "86083a18020055dd379165e8bd51f5631238beae49424e3b47e30077c1b73088"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "851bfa714ef3076b5e6047285e8b7ffbd0d83195930b23d2e33ffe2b6781165c"
 metafile = true
@@ -254,6 +351,21 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "8706fffb7b175ef25ed810ff3b462714ff9ca978a7db9ff203d2ebce115bfae5"
+metafile = true
+
+[[files]]
+file = "mods/surge.pw.toml"
+hash = "76364bbc6e5ab454bdbd76fa3502bdee90c0bb842f6b405ed60f1d33c76053ee"
+metafile = true
+
+[[files]]
+file = "mods/sync.pw.toml"
+hash = "48b5445508e8a7b56f99cb554936b42d7037a884fd6775715e0c405ad3fbf2e2"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "47fb2197dcdb85aa5833a9c70d0291828c094bfa0207804b2a84aff9e6596e7a"
 metafile = true
 
 [[files]]
@@ -282,8 +394,8 @@ hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
 metafile = true
 
 [[files]]
-file = "mods/zombies-are-real.pw.toml"
-hash = "f21a5174591277f37f7bac65d51363ca4be9f0605773fa8d6f668aea0672f7ec"
+file = "mods/zombies-are-real-reforged.pw.toml"
+hash = "6ac2c26c4995f965ac458af7cde163d7b1a32b70f9bca5bbdde9eb1646954353"
 metafile = true
 
 [[files]]
@@ -295,6 +407,34 @@ metafile = true
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
+
+[[files]]
+file = "scripts/custom.zs"
+hash = "8e03caf79d2ba44a39e1c8639e63b58b4b8d811e360bf24f7650a473b0e29983"
+
+[[files]]
+file = "scripts/immersiveengineering.zs"
+hash = "dc7aea3d352b8d6dfbd2cabdb57b01a3ade3168ea11af8ef123b7275cd688387"
+
+[[files]]
+file = "scripts/minecraft.zs"
+hash = "afdd67885f3759f3808004de95a5ab3fbce55073777b6d99b308703ed851c17b"
+
+[[files]]
+file = "scripts/mwc.zs"
+hash = "0bf908fbcd92aacdaad98a536c0efe5991c308643d58852c665ebdf3e47d9254"
+
+[[files]]
+file = "scripts/portalgun.zs"
+hash = "d42d8d2c0c98619a51f12644f8bf17457b750e612c517a353fd5792cf79008fd"
+
+[[files]]
+file = "scripts/syncmod.zs"
+hash = "cb0572149bf0531389acb6af82217ba7ea71bb47bcce431793b4c0ac59d4d7f4"
+
+[[files]]
+file = "scripts/thermalfoundation.zs"
+hash = "2d190d667311c0fe896e62f9c22bc4f0a7e68fab7643843e0472cf226485ef7b"
 
 [[files]]
 file = "unsup.toml"
