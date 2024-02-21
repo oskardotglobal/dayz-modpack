@@ -69,6 +69,10 @@ file = "config/tombmanygraves.cfg"
 hash = "9f82f5d03a4a20300d2f28e703cc2f0e53605b26927f289b423e69960f3bb847"
 
 [[files]]
+file = "config/toughasnails/drink_stats.json"
+hash = "007b5999a0b928c7e735b8e0656fd0cfacfa711efcd62c98c6968f855f6e935c"
+
+[[files]]
 file = "mods/antique-atlas.pw.toml"
 hash = "6303fa1a2c9ba98acd32a225211819339dfb0263332ff15f13268b77a6a9cabb"
 metafile = true
@@ -274,6 +278,11 @@ hash = "ab0d1c1cadaaa8dc99219cd66892958b4bb96bdfde73d8089a87cbf103ab1721"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
 file = "mods/nixnarrator.pw.toml"
 hash = "30a88ab8110216e8533bdbd946d107e5df3c60ec808adbff598932ddf41b8837"
 metafile = true
@@ -394,6 +403,11 @@ hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
 metafile = true
 
 [[files]]
+file = "mods/yarcf.pw.toml"
+hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
+metafile = true
+
+[[files]]
 file = "mods/zombies-are-real-reforged.pw.toml"
 hash = "6ac2c26c4995f965ac458af7cde163d7b1a32b70f9bca5bbdde9eb1646954353"
 metafile = true
@@ -410,19 +424,31 @@ metafile = true
 
 [[files]]
 file = "scripts/custom.zs"
-hash = "8e03caf79d2ba44a39e1c8639e63b58b4b8d811e360bf24f7650a473b0e29983"
+hash = "0a0aaf0c2b9aaa70fdca76b25972b67610c6199bd3feacca7af189e4d97b8fea"
+
+[[files]]
+file = "scripts/dr_who_regeneration.zs"
+hash = "d043ce7ffff21cbf8ed4e7c66f53f3e953225a7dec193e18a8b76ff74b9408b8"
+
+[[files]]
+file = "scripts/exnihilo.zs"
+hash = "a0b3b6838b55ab252a639588cd6af2afd0b109f09577053c8628c20b30f88265"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"
-hash = "dc7aea3d352b8d6dfbd2cabdb57b01a3ade3168ea11af8ef123b7275cd688387"
+hash = "8b8e658820d55133423f7863003c5febe4732f6faeb39ece60505feb49b49a59"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "afdd67885f3759f3808004de95a5ab3fbce55073777b6d99b308703ed851c17b"
+hash = "b2b5bcd47d2cf0809c8511f4d814c286619a4d4191ccb9368e942468fefb4074"
+
+[[files]]
+file = "scripts/mts.zs"
+hash = "487b9bf161976f3276086a9559bb71b713cebc415be36bb608e81c4427cc5f77"
 
 [[files]]
 file = "scripts/mwc.zs"
-hash = "0bf908fbcd92aacdaad98a536c0efe5991c308643d58852c665ebdf3e47d9254"
+hash = "cb90e9e49815148d4cc950005b857f849a67127d1ceeb8deacae15324dd160cd"
 
 [[files]]
 file = "scripts/portalgun.zs"
@@ -433,8 +459,12 @@ file = "scripts/syncmod.zs"
 hash = "cb0572149bf0531389acb6af82217ba7ea71bb47bcce431793b4c0ac59d4d7f4"
 
 [[files]]
+file = "scripts/thermal.zs"
+hash = "c3822ac6ff3060ec24b6c707cfb4df460732b017f093f6007e751c20fc13ef79"
+
+[[files]]
 file = "scripts/thermalfoundation.zs"
-hash = "2d190d667311c0fe896e62f9c22bc4f0a7e68fab7643843e0472cf226485ef7b"
+hash = "96830466f818775610b0e06ab8baa1c02347160565790e669a34d5d1537757f5"
 
 [[files]]
 file = "unsup.toml"

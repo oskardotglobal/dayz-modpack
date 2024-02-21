@@ -1,3 +1,6 @@
+mods.jei.JEI.removeAndHide(<thermalexpansion:satchel:0>);
+mods.jei.JEI.removeAndHide(<thermalexpansion:satchel:100>);
+
 // Armor
 mods.jei.JEI.removeAndHide(<thermalfoundation:armor.helmet_copper>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:armor.plate_copper>);
