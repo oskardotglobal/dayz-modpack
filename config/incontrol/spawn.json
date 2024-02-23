@@ -10,5 +10,11 @@
     	"mincount": 10,
     	"perplayer": true,
     	"result": "deny"
+    },
+    {
+    	"mob": "zombiesarereal:terrain_zombie",
+    	"mincount": 20,
+    	"perplayer": true,
+    	"result": "deny"
     }
 ]

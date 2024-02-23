@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Regeneration.cfg"
+hash = "dab4389586fd75b54421ef02a2ed2dd0fd29b6dc914380a8db4aa4c9324b7cb0"
+
+[[files]]
 file = "config/badmobs.cfg"
 hash = "e3203c79a0b9cbbf5cf9caad965c5e23dd4b29151a11095c17f696be841e6ea4"
 
@@ -29,8 +33,12 @@ file = "config/improvedmobs/main.cfg"
 hash = "885631accf78eecfc9939273a7a7f3e7713a6aa00ae22e609de85bf264511155"
 
 [[files]]
+file = "config/incontrol/potentialspawn.json"
+hash = "e480c7300317cb5af2335ba8efcedc237f9b9bde33c587556089ad4c50c61bda"
+
+[[files]]
 file = "config/incontrol/spawn.json"
-hash = "6534ac372605074ff17cda0e18592ea9f0694b0a50633a965018a1c2cc6aa9b1"
+hash = "fa6f0ad006fa59085d76d477b3899a9d441124515e444646e0ef6027d5785542"
 
 [[files]]
 file = "config/mwc.cfg"
@@ -409,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombies-are-real-reforged.pw.toml"
-hash = "6ac2c26c4995f965ac458af7cde163d7b1a32b70f9bca5bbdde9eb1646954353"
+hash = "d41b7f2d476e510ceac149be0418d40a6f6e7da27ba7b42a116a37cfe07825d2"
 metafile = true
 
 [[files]]

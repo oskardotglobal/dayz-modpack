@@ -1,0 +1,14 @@
+[
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "zombiesarereal:terrain_zombie",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  }
+]
+
