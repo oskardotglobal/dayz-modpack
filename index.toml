@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Regeneration.cfg"
-hash = "dab4389586fd75b54421ef02a2ed2dd0fd29b6dc914380a8db4aa4c9324b7cb0"
+hash = "59f359d83a3494da91bf1e0759487c04775174618e062d258cdaa950a9c8a83f"
 
 [[files]]
 file = "config/badmobs.cfg"
