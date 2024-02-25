@@ -1,13 +1,7 @@
-name = "Doctor Who - Regeneration"
-filename = "Regeneration-3.0.3.jar"
-side = "both"
+name = "regeneration"
+filename = "Regeneration-3.1.0.jar"
 
 [download]
-hash-format = "sha1"
-hash = "b7e9f947f5f07e8574bf33029df95fee1c3506b1"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3421499
-project-id = 274275
+url = "https://github.com/oskardotglobal/Regeneration/releases/download/v3.1.0/Regeneration-3.1.0.jar"
+hash-format = "sha256"
+hash = "39e470f6f8117b1780957dd254a5263ef9fcb210bd6a453de0c535a33c2fcbc5"

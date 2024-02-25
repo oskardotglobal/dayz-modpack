@@ -6,3 +6,7 @@ mods.jei.JEI.hide(<mwc:gl06>);
 mods.jei.JEI.hide(<mwc:m79>);
 
 mods.jei.JEI.removeAndHide(<mwc:turret_base>);
+
+// disable industrial crafting of guns
+recipes.remove(<mwc:gunmetal_plate>);
+

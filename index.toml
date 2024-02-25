@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ExNihiloCreatio.cfg"
+hash = "0e9b2aa0cc959c8d92851dcdb47246275a9c42f5ff501bf62e6c1f92fd1225a1"
+
+[[files]]
 file = "config/Regeneration.cfg"
 hash = "59f359d83a3494da91bf1e0759487c04775174618e062d258cdaa950a9c8a83f"
 
@@ -18,11 +22,15 @@ hash = "642254f869971ccb807e0ac2013e801dc73bdf409fbb10f2fe3002cc2afe204f"
 
 [[files]]
 file = "config/datrandomspawn.cfg"
-hash = "19e5e2783298156a0b0378ed02409b323cee5ff75e4ce61aac8a94bcacbe3cd9"
+hash = "3fea2410573aeaabb4c796d158dad04db1fa206de6441dcca8b8e2071a7cc457"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "141d67bf8b4ad7cec5892d9295a1ec4ed96f70e68679008d5d0eb2ad8d2777c7"
+
+[[files]]
+file = "config/firstaid.cfg"
+hash = "d725b5c641d28e5997fcfb637943e9df2146ec49742bd020ab21a4850aca2f90"
 
 [[files]]
 file = "config/forge.cfg"
@@ -41,12 +49,24 @@ file = "config/incontrol/spawn.json"
 hash = "fa6f0ad006fa59085d76d477b3899a9d441124515e444646e0ef6027d5785542"
 
 [[files]]
+file = "config/infernalmobs.cfg"
+hash = "f3d1e3ac29fd4582047f15aa1219ec1650e17d76b2b03fee7aff309593c8ba52"
+
+[[files]]
+file = "config/lootr.cfg"
+hash = "cc3ea43fd81e49ad88ab374414e4376ebf7e7413e782e1c5cf14a6b22ff15fea"
+
+[[files]]
 file = "config/mwc.cfg"
 hash = "da6a712c9152d8e27d7bc889d99207d0b4e9a264ede535c78486088847ee24eb"
 
 [[files]]
+file = "config/opencomputers/settings.conf"
+hash = "52437039282b3cf55560860ef76eae41a5c6eedc3aceff9b9383afc651abe734"
+
+[[files]]
 file = "config/portalgun.cfg"
-hash = "27f4abec84c1fb1b613807043682f3bf0b62ecee97a5049053395a4168c7e7fb"
+hash = "2bdc2caa5b19515e6c6ca46747f6944cb811fb9d17d36ddc502e67da4c85c7c9"
 
 [[files]]
 file = "config/progressivedifficulty/default/default.cfg"
@@ -66,19 +86,27 @@ hash = "4586d1b07f83a6910d228b9161fe3226b9d886fb004ecdc38e8e7ae4f5cbdb12"
 
 [[files]]
 file = "config/securitycraft.cfg"
-hash = "aa23842665ed965e07ab4b18b31389acc78445cd407a010edc7d691ed6836bca"
+hash = "75d14d4ee1a5611e4b7b04e7e71fe31d3e9a482c0bc3c9f6ee914fb4fb289c95"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "e2553b7023ff61a1dcacdbdf266abee07f5ac3b419e99a5674e583ab6516b3b1"
 
 [[files]]
+file = "config/sync.cfg"
+hash = "d79df18fc8dc091549f0476c0eca2131f9f0ef8d478c431b85fac058fcd8b392"
+
+[[files]]
 file = "config/tombmanygraves.cfg"
-hash = "9f82f5d03a4a20300d2f28e703cc2f0e53605b26927f289b423e69960f3bb847"
+hash = "3f4451a849f1026408df7a96c8af2c0f8a2a8da9cb6cabf7697b89ccd092cee9"
 
 [[files]]
 file = "config/toughasnails/drink_stats.json"
 hash = "007b5999a0b928c7e735b8e0656fd0cfacfa711efcd62c98c6968f855f6e935c"
+
+[[files]]
+file = "config/toughasnails/gameplay.cfg"
+hash = "09b1286392dbaa2a64ec526663ba95b415718f8efff75118ff4976239ad035f9"
 
 [[files]]
 file = "mods/antique-atlas.pw.toml"
@@ -282,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-warfare-cubed.pw.toml"
-hash = "ab0d1c1cadaaa8dc99219cd66892958b4bb96bdfde73d8089a87cbf103ab1721"
+hash = "1983cf37bcd5c6ae6063673aac8658c0d8273225532bc8ad7d12c3fc5bc6fc26"
 metafile = true
 
 [[files]]
@@ -342,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/regeneration.pw.toml"
-hash = "462bb9853fd4d4727e94bc4165c9bfdc0575e20f34456e58093f4d89fb5a3446"
+hash = "0a7f6910ae978f9e76a1e77795e43e319319e49738e38270df2f4e3f00890150"
 metafile = true
 
 [[files]]
@@ -383,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "47fb2197dcdb85aa5833a9c70d0291828c094bfa0207804b2a84aff9e6596e7a"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
 metafile = true
 
 [[files]]
@@ -456,7 +489,7 @@ hash = "487b9bf161976f3276086a9559bb71b713cebc415be36bb608e81c4427cc5f77"
 
 [[files]]
 file = "scripts/mwc.zs"
-hash = "cb90e9e49815148d4cc950005b857f849a67127d1ceeb8deacae15324dd160cd"
+hash = "9a027c0eb492751e396afbd5566eeb928c5880817e11780e58feb49fb51acabf"
 
 [[files]]
 file = "scripts/portalgun.zs"
@@ -464,7 +497,7 @@ hash = "d42d8d2c0c98619a51f12644f8bf17457b750e612c517a353fd5792cf79008fd"
 
 [[files]]
 file = "scripts/syncmod.zs"
-hash = "cb0572149bf0531389acb6af82217ba7ea71bb47bcce431793b4c0ac59d4d7f4"
+hash = "9f68baa793b8ede8884936a27e7e53623a52c9783f04c43b2e2eace6d4e20525"
 
 [[files]]
 file = "scripts/thermal.zs"
@@ -476,4 +509,4 @@ hash = "96830466f818775610b0e06ab8baa1c02347160565790e669a34d5d1537757f5"
 
 [[files]]
 file = "unsup.toml"
-hash = "0ca33bb6bab75298ab1e9c0bdc74a4fbca7ec6e82dc488f2cf45f224b17d5d64"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
