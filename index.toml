@@ -14,7 +14,7 @@ hash = "e3203c79a0b9cbbf5cf9caad965c5e23dd4b29151a11095c17f696be841e6ea4"
 
 [[files]]
 file = "config/corpsecomplex.cfg"
-hash = "ed3d0378bc56c41e25fe4b056905b7e4595fe36fc4e0bf6c29bc2fa5668372f1"
+hash = "be813da20ddc750ee483489f68a00f29585b18d2ecc112e193c7526fcea5744c"
 
 [[files]]
 file = "config/darkness.cfg"
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "scripts/custom.zs"
-hash = "0a0aaf0c2b9aaa70fdca76b25972b67610c6199bd3feacca7af189e4d97b8fea"
+hash = "c61c7aefc004a849c3885d5efc1b3eb003fa99fcd5dc691d3acb2ab59e70db70"
 
 [[files]]
 file = "scripts/dr_who_regeneration.zs"
@@ -478,6 +478,10 @@ hash = "a0b3b6838b55ab252a639588cd6af2afd0b109f09577053c8628c20b30f88265"
 [[files]]
 file = "scripts/immersiveengineering.zs"
 hash = "8b8e658820d55133423f7863003c5febe4732f6faeb39ece60505feb49b49a59"
+
+[[files]]
+file = "scripts/loot_table.zs"
+hash = "84f76d139d41251831501eadc8d1c654f34c3b5cf03bcd05932189e8db43c97d"
 
 [[files]]
 file = "scripts/minecraft.zs"
@@ -494,6 +498,10 @@ hash = "9a027c0eb492751e396afbd5566eeb928c5880817e11780e58feb49fb51acabf"
 [[files]]
 file = "scripts/portalgun.zs"
 hash = "d42d8d2c0c98619a51f12644f8bf17457b750e612c517a353fd5792cf79008fd"
+
+[[files]]
+file = "scripts/securitycraft.zs"
+hash = "9b9da1203e9c204bc4807ecf43e04ce09fa42a2d50f72d7ae6faa318564afe94"
 
 [[files]]
 file = "scripts/syncmod.zs"
