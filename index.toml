@@ -209,11 +209,6 @@ hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
 metafile = true
 
 [[files]]
-file = "mods/f3-unlockable.pw.toml"
-hash = "3566308d223d55083c8662b485f6895e24d884ac3507310fdeab04c7f255f536"
-metafile = true
-
-[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
 metafile = true
