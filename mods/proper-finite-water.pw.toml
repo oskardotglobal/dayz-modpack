@@ -1,13 +1,14 @@
 name = "Proper finite water"
-filename = "ProperFiniteWater--mc1.12--1.01.jar"
+filename = "ProperFiniteWater-mc1.12--1.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "3a74f9dfcf68f8ac1d8dada7e9c8a5e76024bd1f"
+hash = "1a918ea7f942add57b0bc4670a8da38c95832aea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3501542
+file-id = 3483849
 project-id = 534626

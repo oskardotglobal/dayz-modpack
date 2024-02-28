@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/proper-finite-water.pw.toml"
-hash = "bd6a3071b0501bab208e8a5398afcca71c8caf6f34ec58dd50d7d60f5cb03cde"
+hash = "a1ccc93afddef6028106f71a33c429e93e1400827987bd99c7c8560a12de10cb"
 metafile = true
 
 [[files]]
