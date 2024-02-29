@@ -22,7 +22,7 @@ hash = "642254f869971ccb807e0ac2013e801dc73bdf409fbb10f2fe3002cc2afe204f"
 
 [[files]]
 file = "config/datrandomspawn.cfg"
-hash = "3fea2410573aeaabb4c796d158dad04db1fa206de6441dcca8b8e2071a7cc457"
+hash = "20171c258671c0124af29a2a3cbe1fadc2523042e0683c96f746bcd93cbb292c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
