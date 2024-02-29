@@ -21,10 +21,6 @@ file = "config/darkness.cfg"
 hash = "642254f869971ccb807e0ac2013e801dc73bdf409fbb10f2fe3002cc2afe204f"
 
 [[files]]
-file = "config/datrandomspawn.cfg"
-hash = "20171c258671c0124af29a2a3cbe1fadc2523042e0683c96f746bcd93cbb292c"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "141d67bf8b4ad7cec5892d9295a1ec4ed96f70e68679008d5d0eb2ad8d2777c7"
 
@@ -341,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/proper-finite-water.pw.toml"
 hash = "a1ccc93afddef6028106f71a33c429e93e1400827987bd99c7c8560a12de10cb"
-metafile = true
-
-[[files]]
-file = "mods/random-spawn.pw.toml"
-hash = "68cd03813e8c380f663872bcc2d15a0897c76dc9f59f2a5eb5c97a7e59589fb5"
 metafile = true
 
 [[files]]
