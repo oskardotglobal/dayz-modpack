@@ -130,6 +130,11 @@ hash = "026179f9c25ebe3045909c7754edf4465049617e9e8e7c0bca5f2cdb2c6db02e"
 metafile = true
 
 [[files]]
+file = "mods/betterfps.pw.toml"
+hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "5b396f4090a7a1f5fdbeca3e7630900b7ef31ea465206a559ffa796eac94f243"
 metafile = true
@@ -162,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+hash = "5c55e27001ac091b84da7af0d30d4fad7f42240dae06eb0b64b6f8b3242dc2e3"
 metafile = true
 
 [[files]]
@@ -205,11 +215,6 @@ hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
-metafile = true
-
-[[files]]
 file = "mods/first-aid.pw.toml"
 hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
 metafile = true
@@ -227,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/gtfo-craft-protocol.pw.toml"
 hash = "496e649eaaf8df41887f58f98ae704b0bd04f2fd07abba23792fb9a6da640864"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "46105378f0912c9698335465b9dec93863bc709a626055ef1281f0c2308b1f0c"
 metafile = true
 
 [[files]]
@@ -260,13 +270,13 @@ hash = "92527273fa468970a2f1ab95c1df58a13881b8345f6537ea65c60d8ff812592f"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "a097b55c2e68be3c7befb758537f688db111db930fbcbd2ac187cb6412a6e3d6"
+file = "mods/localized-chat.pw.toml"
+hash = "c58c07a4b67fd6f0a2a9647216e9931dea8a2acc0b1cf0f2c2ef38c38f17cf0d"
 metafile = true
 
 [[files]]
-file = "mods/localized-chat.pw.toml"
-hash = "c58c07a4b67fd6f0a2a9647216e9931dea8a2acc0b1cf0f2c2ef38c38f17cf0d"
+file = "mods/lolasm.pw.toml"
+hash = "ff33ae608b34f10ad87ca68353824ddeba0d05f01eff89d704ed89ce0bc95ac2"
 metafile = true
 
 [[files]]
@@ -385,11 +395,6 @@ hash = "8706fffb7b175ef25ed810ff3b462714ff9ca978a7db9ff203d2ebce115bfae5"
 metafile = true
 
 [[files]]
-file = "mods/surge.pw.toml"
-hash = "76364bbc6e5ab454bdbd76fa3502bdee90c0bb842f6b405ed60f1d33c76053ee"
-metafile = true
-
-[[files]]
 file = "mods/sync.pw.toml"
 hash = "48b5445508e8a7b56f99cb554936b42d7037a884fd6775715e0c405ad3fbf2e2"
 metafile = true
@@ -422,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "9849eb87522fc1b157029557e8cb13d467917185e21304acd34aadb5a76e215a"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "408b3e0ec766d6b326433c106f68f57e4add18f9ec08b2b369e256fef6f94d43"
 metafile = true
 
 [[files]]
