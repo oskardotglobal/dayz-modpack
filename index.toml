@@ -473,7 +473,7 @@ hash = "a0b3b6838b55ab252a639588cd6af2afd0b109f09577053c8628c20b30f88265"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"
-hash = "8b8e658820d55133423f7863003c5febe4732f6faeb39ece60505feb49b49a59"
+hash = "a33034bcaae3ccf06e7062662f749dcef0cb75d381ad85b658a0a1a1e7696487"
 
 [[files]]
 file = "scripts/loot_table.zs"
@@ -481,7 +481,7 @@ hash = "84f76d139d41251831501eadc8d1c654f34c3b5cf03bcd05932189e8db43c97d"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "b2b5bcd47d2cf0809c8511f4d814c286619a4d4191ccb9368e942468fefb4074"
+hash = "1510c339ee4b1da7d85143a60dce16dc5aa33072f43412548d1011bb3a34d576"
 
 [[files]]
 file = "scripts/mts.zs"
@@ -509,7 +509,7 @@ hash = "c3822ac6ff3060ec24b6c707cfb4df460732b017f093f6007e751c20fc13ef79"
 
 [[files]]
 file = "scripts/thermalfoundation.zs"
-hash = "96830466f818775610b0e06ab8baa1c02347160565790e669a34d5d1537757f5"
+hash = "725cad5566df04c5b8f46f7c0f57bc315fa065ef64cfeeac320515eb6fbc9726"
 
 [[files]]
 file = "unsup.toml"

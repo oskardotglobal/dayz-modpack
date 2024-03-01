@@ -154,15 +154,8 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:tool.excavator_nickel>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.shield_nickel>);
 
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.sword_steel>);
-mods.jei.JEI.removeAndHide(<thermalfoundation:tool.shovel_steel>);
-mods.jei.JEI.removeAndHide(<thermalfoundation:tool.pickaxe_steel>);
-mods.jei.JEI.removeAndHide(<thermalfoundation:tool.axe_steel>);
-mods.jei.JEI.removeAndHide(<thermalfoundation:tool.hoe_steel>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.bow_steel>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.fishing_rod_steel>);
-mods.jei.JEI.removeAndHide(<thermalfoundation:tool.sickle_steel>);
-mods.jei.JEI.removeAndHide(<thermalfoundation:tool.hammer_steel>);
-mods.jei.JEI.removeAndHide(<thermalfoundation:tool.excavator_steel>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.shield_steel>);
 
 mods.jei.JEI.removeAndHide(<thermalfoundation:tool.sword_electrum>);

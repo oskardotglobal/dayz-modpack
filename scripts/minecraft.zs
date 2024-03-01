@@ -55,10 +55,6 @@ mods.jei.JEI.removeAndHide(<minecraft:stone_axe>);
 mods.jei.JEI.removeAndHide(<minecraft:stone_hoe>);
 
 mods.jei.JEI.removeAndHide(<minecraft:iron_sword>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_shovel>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_pickaxe>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_axe>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_hoe>);
 
 mods.jei.JEI.removeAndHide(<minecraft:golden_sword>);
 mods.jei.JEI.removeAndHide(<minecraft:golden_shovel>);

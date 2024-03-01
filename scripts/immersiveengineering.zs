@@ -33,7 +33,3 @@ mods.jei.JEI.removeAndHide(<immersiveengineering:faraday_suit_feet>);
 
 // Tools
 mods.jei.JEI.removeAndHide(<immersiveengineering:sword_steel>);
-mods.jei.JEI.removeAndHide(<immersiveengineering:shovel_steel>);
-mods.jei.JEI.removeAndHide(<immersiveengineering:pickaxe_steel>);
-mods.jei.JEI.removeAndHide(<immersiveengineering:axe_steel>);
-mods.jei.JEI.removeAndHide(<immersiveengineering:hoe_steel>);
