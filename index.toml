@@ -85,10 +85,6 @@ file = "config/securitycraft.cfg"
 hash = "75d14d4ee1a5611e4b7b04e7e71fe31d3e9a482c0bc3c9f6ee914fb4fb289c95"
 
 [[files]]
-file = "config/starterkit/starterkit.txt"
-hash = "e2553b7023ff61a1dcacdbdf266abee07f5ac3b419e99a5674e583ab6516b3b1"
-
-[[files]]
 file = "config/sync.cfg"
 hash = "d79df18fc8dc091549f0476c0eca2131f9f0ef8d478c431b85fac058fcd8b392"
 
@@ -387,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remixin.pw.toml"
 hash = "602661cc4a69bc167367d67d451073b536fa1307be2be02a77fde0d8dab9405f"
-metafile = true
-
-[[files]]
-file = "mods/starter-kit.pw.toml"
-hash = "8706fffb7b175ef25ed810ff3b462714ff9ca978a7db9ff203d2ebce115bfae5"
 metafile = true
 
 [[files]]
