@@ -131,11 +131,6 @@ hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
 
 [[files]]
-file = "mods/bigger-packets-please.pw.toml"
-hash = "91e55f53e659f5371a27adf9614c1166f0f75a1ca658c6dc69e4cdffdd20f724"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "5b396f4090a7a1f5fdbeca3e7630900b7ef31ea465206a559ffa796eac94f243"
 metafile = true
