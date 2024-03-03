@@ -18,7 +18,7 @@ hash = "e3203c79a0b9cbbf5cf9caad965c5e23dd4b29151a11095c17f696be841e6ea4"
 
 [[files]]
 file = "config/corpsecomplex.cfg"
-hash = "9709fdd810e7c5b2b841fb359c63d3d163fed80e391527102c806a9e1d1fc78f"
+hash = "3d0f487364dfe428a5fdc9e09efbc02143aaf893cd12816d9be2e35e69585072"
 
 [[files]]
 file = "config/darkness.cfg"
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "46105378f0912c9698335465b9dec93863bc709a626055ef1281f0c2308b1f0c"
+hash = "bae1b220134bbfa3ffab7ed1dc0433bba0728a49a24f6c04a0128dd72d6a9c33"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombies-are-real-reforged.pw.toml"
-hash = "6f4d98a0c396c042ec2e0e3555ba2c79c034c69c0c043d151647db7b3f8fa373"
+hash = "75a8b805b757f0769ea9f687149ddce446cf9ca9706a65e135db4eccdfa8e7af"
 metafile = true
 
 [[files]]
