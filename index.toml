@@ -9,12 +9,16 @@ file = "config/Regeneration.cfg"
 hash = "59f359d83a3494da91bf1e0759487c04775174618e062d258cdaa950a9c8a83f"
 
 [[files]]
+file = "config/Universal_Tweaks_-_Tweaks.cfg"
+hash = "7c699c09ea279447f5c16d9f9300566a8478df48a3f0403c2c5b9dc7b8bfc0ec"
+
+[[files]]
 file = "config/badmobs.cfg"
 hash = "e3203c79a0b9cbbf5cf9caad965c5e23dd4b29151a11095c17f696be841e6ea4"
 
 [[files]]
 file = "config/corpsecomplex.cfg"
-hash = "fca33780c5c5acd0b4e347692956e99e724727ce37c375ab1668dbfe4dc78f8c"
+hash = "414417dcc6b6cbe60ba2d7bc38658023e25081e625b5866e54f1c1f7ed59559d"
 
 [[files]]
 file = "config/darkness.cfg"
@@ -46,7 +50,7 @@ hash = "fa6f0ad006fa59085d76d477b3899a9d441124515e444646e0ef6027d5785542"
 
 [[files]]
 file = "config/infernalmobs.cfg"
-hash = "f3d1e3ac29fd4582047f15aa1219ec1650e17d76b2b03fee7aff309593c8ba52"
+hash = "455980b15fbc9172254293f475334c1540cae808cd5f7a107a20868dc3ddddd7"
 
 [[files]]
 file = "config/lootr.cfg"
@@ -478,7 +482,7 @@ hash = "a33034bcaae3ccf06e7062662f749dcef0cb75d381ad85b658a0a1a1e7696487"
 
 [[files]]
 file = "scripts/loot_table.zs"
-hash = "84f76d139d41251831501eadc8d1c654f34c3b5cf03bcd05932189e8db43c97d"
+hash = "6483c8a583c939bb27cee94f5bfd5768fc34814ce128af9ce35533ff98cce4bc"
 
 [[files]]
 file = "scripts/minecraft.zs"
