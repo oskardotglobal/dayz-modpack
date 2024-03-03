@@ -37,14 +37,14 @@ materials.addItemEntry(<mwc:swat_vest>, 1, 0);
 materials.addItemEntry(<mwc:combat_sustainment_backpack_black>, 2, 0);
 materials.addItemEntry(<mwc:combat_sustainment_backpack>, 2, 0);
 materials.addItemEntry(<mwc:combat_sustainment_backpack_forest>, 2, 0);
-materials.addItemEntry(<minecraft:iron_shovel>), 4, 0);
-materials.addItemEntry(<minecraft:iron_pickaxe>), 4, 0);
-materials.addItemEntry(<minecraft:iron_axe>), 4, 0);
-materials.addItemEntry(<minecraft:iron_hoe>), 4, 0);
-materials.addItemEntry(<immersiveengineering:shovel_steel>), 2, 0);
-materials.addItemEntry(<immersiveengineering:pickaxe_steel>), 2, 0);
-materials.addItemEntry(<immersiveengineering:axe_steel>), 2, 0);
-materials.addItemEntry(<immersiveengineering:hoe_steel>), 2, 0);
+materials.addItemEntry(<minecraft:iron_shovel>, 4, 0);
+materials.addItemEntry(<minecraft:iron_pickaxe>, 4, 0);
+materials.addItemEntry(<minecraft:iron_axe>, 4, 0);
+materials.addItemEntry(<minecraft:iron_hoe>, 4, 0);
+materials.addItemEntry(<immersiveengineering:shovel_steel>, 2, 0);
+materials.addItemEntry(<immersiveengineering:pickaxe_steel>, 2, 0);
+materials.addItemEntry(<immersiveengineering:axe_steel>, 2, 0);
+materials.addItemEntry(<immersiveengineering:hoe_steel>, 2, 0);
 
 // Attachments
 attachments.addItemEntry(<mwc:pso1>, 3);
