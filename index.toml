@@ -220,6 +220,11 @@ hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "68117dc3334dd323866fe781a32f9db7a668b5af60385b3bc55a29ce42f3af7d"
+metafile = true
+
+[[files]]
 file = "mods/first-aid.pw.toml"
 hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
 metafile = true
