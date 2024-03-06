@@ -12,8 +12,6 @@
 > [!NOTE]  
 > On macOS, install Java from [this link](https://files.multimc.org/downloads/jre-8u241-macosx-x64.dmg)
 
-https://files.multimc.org/downloads/jre-8u241-macosx-x64.dmg
-
 This should work with all common launchers, however, installing with a launcher other than Prism isn't actively supported.  
 
 1) Download [unsup.jar](https://git.sleeping.town/unascribed/unsup/releases/download/v0.2.3/unsup-0.2.3.jar) and [unsup.ini](https://raw.githubusercontent.com/oskardotglobal/dayz-modpack/main/include/unsup.ini)
