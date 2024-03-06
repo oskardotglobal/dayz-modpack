@@ -1,9 +1,5 @@
 # dayz-modpack
 
-## Manual Changes
-
-Set the values in server.properties according to the server.properties in include/  
-
 ## Installation on launchers besides Prism
 
 > [!IMPORTANT]  
