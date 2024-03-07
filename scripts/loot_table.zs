@@ -18,11 +18,13 @@ materials.addItemEntry(<mwc:tin_ingot>, 11, 0, [Functions.setCount(1, 5)], []);
 materials.addItemEntry(<mwc:steel_ingot>, 10, 0, [Functions.setCount(1, 3)], []);
 materials.addItemEntry(<mwc:carbon_fiber>, 10, 0, [Functions.setCount(1, 5)], []);
 materials.addItemEntry(<mwc:synthetic_polymer_composite>, 10, 0, [Functions.setCount(1, 3)], []);
-materials.addItemEntry(<minecraft:iron_ingot>, 15, 0, [Functions.setCount(1, 5)], []);
+materials.addItemEntry(<minecraft:iron_ingot>, 20, 0, [Functions.setCount(4, 8)], []);
 materials.addItemEntry(<minecraft:wool>, 15, 0, [Functions.setCount(2, 3)], []);
 materials.addItemEntry(<minecraft:string>, 15, 0, [Functions.setCount(5, 8)], []);
 materials.addItemEntry(<minecraft:spider_eye>, 8, 0, [Functions.setCount(1, 2)], []);
+materials.addItemEntry(<minecraft:slime>, 8, 0, [Functions.setCount(1, 2)], []);
 materials.addItemEntry(<immersiveengineering:material:4>, 11, 0, [Functions.setCount(5, 10)], []);
+
 
 // Consumables
 materials.addItemEntry(<firstaid:bandage>, 4, 0, [Functions.setCount(1, 2)], []);
