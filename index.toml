@@ -400,11 +400,6 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remixin.pw.toml"
-hash = "602661cc4a69bc167367d67d451073b536fa1307be2be02a77fde0d8dab9405f"
-metafile = true
-
-[[files]]
 file = "mods/sync.pw.toml"
 hash = "48b5445508e8a7b56f99cb554936b42d7037a884fd6775715e0c405ad3fbf2e2"
 metafile = true
@@ -456,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombies-are-real-reforged.pw.toml"
-hash = "8d6c3c0f1617a35984bcd96a88a0040ecaf19fbe4365704f031cabe61701c6aa"
+hash = "756b92821762dff87dd41739d23c35d0c87bb063fc11d63c4f6dd73bf2af7e09"
 metafile = true
 
 [[files]]

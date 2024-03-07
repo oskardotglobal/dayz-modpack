@@ -1,13 +1,13 @@
 name = "ZombiesAreReal Reforged"
-filename = "ZombiesAreReal-2.4.3.jar"
+filename = "ZombiesAreReal-2.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qF7qyDaS/versions/m6rCCCQw/ZombiesAreReal-2.4.3.jar"
+url = "https://cdn.modrinth.com/data/qF7qyDaS/versions/ifd4tlxg/ZombiesAreReal-2.5.0.jar"
 hash-format = "sha1"
-hash = "19c623c247c792a466caf9a365b7545f52f39528"
+hash = "c9cafeefa5f2ad43e1d6779acc3717aad7aa097a"
 
 [update]
 [update.modrinth]
 mod-id = "qF7qyDaS"
-version = "m6rCCCQw"
+version = "ifd4tlxg"
