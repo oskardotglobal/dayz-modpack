@@ -482,7 +482,7 @@ hash = "a33034bcaae3ccf06e7062662f749dcef0cb75d381ad85b658a0a1a1e7696487"
 
 [[files]]
 file = "scripts/loot_table.zs"
-hash = "ff31a40da42916fca8403785f4fc68bdff48942952f230af542e14193bc57928"
+hash = "8b1854bd6af84d6c17b0d84405bc34ce1eabb50b74515e5c71ddf04acede66a4"
 
 [[files]]
 file = "scripts/minecraft.zs"

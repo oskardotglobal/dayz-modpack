@@ -23,6 +23,8 @@ materials.addItemEntry(<minecraft:wool>, 15, 0, [Functions.setCount(2, 3)], []);
 materials.addItemEntry(<minecraft:string>, 15, 0, [Functions.setCount(5, 8)], []);
 materials.addItemEntry(<minecraft:spider_eye>, 8, 0, [Functions.setCount(1, 2)], []);
 materials.addItemEntry(<minecraft:slime>, 8, 0, [Functions.setCount(1, 2)], []);
+materials.addItemEntry(<minecraft:cactus>, 8, 0, [Functions.setCount(1, 2)], []);
+materials.addItemEntry(<thermalfoundation:material:2048>, 8, 0, [Functions.setCount(1, 2)], []);
 materials.addItemEntry(<immersiveengineering:material:4>, 11, 0, [Functions.setCount(5, 10)], []);
 
 
