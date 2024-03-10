@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/configanytime.pw.toml"
-hash = "5c55e27001ac091b84da7af0d30d4fad7f42240dae06eb0b64b6f8b3242dc2e3"
+hash = "484bb597f77018337fd17319fffb47b1e839c7950374d8922433ee69b4eaaed9"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombies-are-real-reforged.pw.toml"
-hash = "756b92821762dff87dd41739d23c35d0c87bb063fc11d63c4f6dd73bf2af7e09"
+hash = "b725839a7e6db26a0278677381f2e9916c2158b441004aa61e6564c5c2466e44"
 metafile = true
 
 [[files]]
