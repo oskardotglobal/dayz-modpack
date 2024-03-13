@@ -250,6 +250,11 @@ hash = "bae1b220134bbfa3ffab7ed1dc0433bba0728a49a24f6c04a0128dd72d6a9c33"
 metafile = true
 
 [[files]]
+file = "mods/hit-indication.pw.toml"
+hash = "dd0374f6502a1496e90cbc75da83f84ae398fc33a43a582bdfef0ee12ec460df"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
