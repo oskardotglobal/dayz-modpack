@@ -5,7 +5,8 @@
 > [!IMPORTANT]  
 > The supplied pack is **incompatible with MultiMC** as it doesn't support Java agent components.  
 > Use Prism instead.
-
+> [!IMPORTANT]
+> The supplied pack is Minecraft version 1.12.2, and so it requires Java 8
 > [!NOTE]  
 > If you're using Curseforge, download the Curseforge Pack from the releases. Then continue with step 4.
 
